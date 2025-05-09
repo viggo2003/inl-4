@@ -1,0 +1,16 @@
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\client\SimpleClient.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\dataaccess\ActionDao.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\dataaccess\ActionDaoJdbcImpl.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\dataaccess\CustomerDao.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\dataaccess\CustomerManagementServiceProductionImpl.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\dataaccess\RecordNotFoundException.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\domain\Action.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\domain\Call.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\domain\Customer.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\services\calls\CallHandlingService.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\services\calls\CallHandlingServiceImpl.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\services\customers\CustomerManagementMockImpl.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\services\customers\CustomerManagementService.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\services\customers\CustomerNotFoundException.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\services\diary\DiaryManagementService.java
+c:\Users\Viigg\Downloads\projekt\backend\INL4\src\main\java\se\yrgo\services\diary\DiaryManagementServiceMockImpl.java

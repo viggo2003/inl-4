@@ -1,0 +1,17 @@
+se\yrgo\dataaccess\ActionDao.class
+se\yrgo\dataaccess\ActionRowMapper.class
+se\yrgo\client\SimpleClient.class
+se\yrgo\domain\Action.class
+se\yrgo\services\calls\CallHandlingServiceImpl.class
+se\yrgo\dataaccess\ActionDaoJdbcImpl.class
+se\yrgo\services\customers\CustomerNotFoundException.class
+se\yrgo\dataaccess\CustomerManagementServiceProductionImpl.class
+se\yrgo\domain\Call.class
+se\yrgo\services\diary\DiaryManagementService.class
+se\yrgo\dataaccess\CustomerDao.class
+se\yrgo\dataaccess\RecordNotFoundException.class
+se\yrgo\services\customers\CustomerManagementMockImpl.class
+se\yrgo\domain\Customer.class
+se\yrgo\services\calls\CallHandlingService.class
+se\yrgo\services\customers\CustomerManagementService.class
+se\yrgo\services\diary\DiaryManagementServiceMockImpl.class
